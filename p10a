@@ -46,5 +46,5 @@ pc2 = X_projected[:, 1]
 plt.scatter(pc1, pc2, c=y, cmap="jet")
 plt.xlabel("Principal Component 1")
 plt.ylabel("Principal Component 2")
-
+#plot
 plt.show()
