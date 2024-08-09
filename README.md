@@ -12,13 +12,18 @@ List of Programs for Machine Learning Laboratory:
    
    b) Write a program to implement Alpha-beta pruning algorithm.
 
-5) Write a program to develop the Naive Bayes classifier for the k values as 3,5,7 based on split up of training and testing dataset as 90-10, 70-30 and leave-one-out on, 
-   a) Iris dataset 
+5) Write a program to develop the Naive Bayes classifier for the k values as 3,5,7 based on split up of training and testing dataset as 90-10, 70-30 and leave-one-out on,
+    
+   a) Iris dataset
+   
    b) Titanic dataset
 
-6) Write a program to develop the KNN classifier for the k values as 3,5,7 based on split up of training and testing dataset as 90-10, 70-30 and leave-one-out on, 
-   a) Glass dataset 
-   b) Fruit dataset  
+6) Write a program to develop the KNN classifier for the k values as 3,5,7 based on split up of training and testing dataset as 90-10, 70-30 and leave-one-out on,
+   
+   a) Glass dataset
+   
+   b) Fruit dataset
+   
 using the different distance metrics like Euclidean and Manhattan distance.
 
 7) Write a program to develop a decision tree classifier based on weather forecasting dataset.
